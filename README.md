@@ -2,7 +2,7 @@
 
 #Jogo de obstaculos
 
-##Ola mas uma vez pessoal :smile:
+##Ola mais uma vez pessoal :smile:
 
 Neste repositorio estara disponivel um simples jogos que consiste na ultrapassagem de obstaculos com o nivel de 
 dificuldade aumentando gradativamente em que utilizei as propriedades **canvas do html**.
